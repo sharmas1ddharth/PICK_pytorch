@@ -1,0 +1,1 @@
+{"total": ["420.0"], "source": ["LUDHIANA JN", "(LDH)", "LuDHIANA JN (LDH)"], "destination": ["MUZAF-", "FARNAGAR", "(Moz)"], "departure": ["26 Oct 20/9 23.59", "26 Oct 20/9"], "arrival": ["27 Oct 20/9 04.23"], "train_name": ["GOL DN TEMPLE ML", "(12904)"], "pnr": ["2628988748"]}

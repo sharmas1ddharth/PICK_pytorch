@@ -1,0 +1,1 @@
+{"total": ["385.49"], "source": ["CHANDIGARH", "(CDC)", "CHANDIGARH (CDC)"], "destination": ["JAMMU TAwI", "(Jat)"], "departure": ["30 Jul 20/9 /9.35", "30 Jul 20/9"], "arrival": ["31 Jul 20/9 02.20"], "train_name": ["KLK SVDK EXPRESS", "(14503)"], "pnr": ["2465671938"]}

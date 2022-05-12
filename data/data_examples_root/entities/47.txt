@@ -1,0 +1,1 @@
+{"train_name": ["LJN CDG EXPRESS (I50l}"], "pnr": ["283535/139"], "source": ["ROORKEE", "(RK)", "ROORKEE (RK)"], "destination": ["CHAND-", "IGARH", "(CDG)"], "departure": ["28 Nov 20/8 Il:48", "28 Nov 20/8"], "arrival": ["28 Nov 20/8 i5.00"], "total": ["150.49"]}

@@ -1,0 +1,1 @@
+{"contact": ["791-976*44*178"], "train_name": ["JANSHATABDI SPL (020561"], "pnr": ["PNR: 7321900908"], "departure": ["06.30", "Sun 0 Jul", "0!jul 2021", "06 7n"], "arrival": ["11.05", "Sun, 04jul"], "source": ["Huridwar Jn (Hw", "Haridwiar Jn (Hw)"], "destination": ["DelhlNOLSI"], "total": ["639.09"], "gst_no": ["OZAAAGMOZ89CIZL"], "igst": ["29.14/5.0%0"]}

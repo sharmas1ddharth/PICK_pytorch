@@ -1,0 +1,1 @@
+{"train_name": ["HEMKUNTEXP (146/0)"], "pnr": ["2154372765"], "source": ["SHMATA", "VD", "TRA", "(SVDK)", "SHMATA VDKaTRA", "(SVDK)"], "destination": ["ROORKEE", "(Rk)"], "departure": ["22 Nov 20/8 /6.20", "22 Nov 20/8"], "arrival": ["23 Nov 20/8 05./8"], "total": ["885.0"], "gst_no": ["07aAGMO28OCIZL"], "igst": ["41.95", "5.0%"]}

@@ -1,0 +1,1 @@
+{"contact": ["aini@gmail.com & +91-976****178"], "train_name": ["JAN SHATBDI SPL (02053)"], "pnr": ["PNR: 2757362106"], "departure": ["Tue; 23 Jun", "15.25", "23 Jun 2020"], "arrival": ["Tue; 23 Jun", "17.41"], "source": ["Roorkee (RK)", "Roorkee (RK)"], "destination": ["Ambala Cant Jn (UMB)"], "total": ["? 117.7"]}

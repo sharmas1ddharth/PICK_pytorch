@@ -1,0 +1,1 @@
+{"source": ["BE"], "destination": ["LKO"], "igst": ["18%", "INR 0.0"], "cgst": ["9%", "INR 3.05"], "departure": ["12/02/2022"], "sgst": ["9%", "INR 3.05"], "total": ["INR 580.4"], "gst_no": ["O6AADCM5146RIZZ"]}

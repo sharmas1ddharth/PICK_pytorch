@@ -1,0 +1,1 @@
+{"contact": ["JeMjicomr.91 976***1th"], "train_name": ["HEMKUNT SPL", "(046091"], "pnr": ["PNR: 2215000206"], "departure": ["Fl, 19 Fcd", "Fcli 3021", "1n G4"], "arrival": ["5L J0 Fcb"], "source": ["~Sanernpur (SREI", "Sucandur (SREL"], "destination": ["Shmala Vd Katra (SVDRI"], "total": ["1B71.0"]}

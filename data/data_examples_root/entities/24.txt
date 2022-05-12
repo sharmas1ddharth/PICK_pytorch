@@ -1,0 +1,1 @@
+{"contact": ["abhishekpanapsaini@ gmalltom", "491.9761333178"], "train_name": ["HW UHL LINKJSHT (12063)"], "pnr": ["PNR: 2309279917"], "departure": ["Frl13 Mai", "15.25"], "arrival": ["Frl; 13 Mar", "19.03"], "source": ["Raorkee (RK)", "Roorkee (RK)"], "destination": ["Chandigarh (COG)"], "date": ["13 Mar 2020"], "total": ["? 371.8"]}

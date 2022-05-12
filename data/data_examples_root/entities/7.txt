@@ -1,0 +1,1 @@
+{"source": ["ROORKEE", "(RK)", "ROORKEE (RK)"], "destination": ["JAMMU TaWi", "(Jat)"], "departure": ["30 Jun 20/9 18.35", "30 Jun 20/9"], "arrival": ["0i Jul 20/9 04.30"], "train_name": ["HEMKUNTEXP (14609)"], "pnr": ["2844999965"], "gst_no": ["O7AAAGMO289CIZL"], "igst": ["51.4 @ 5.0%"], "total": ["1028.6"]}

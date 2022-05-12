@@ -1,0 +1,1 @@
+{"train_name": ["HWASR JNSHTBDI (/2053)"], "pnr": ["2455491324"], "source": ["ROORKEE", "(RK)", "ROORKEE (RK)"], "destination": ["LUDHIANA", "JN (LDH)"], "departure": ["16 Dec 2018 15.28", "16 Dec 2018"], "arrival": ["16 Dec 2018 /9.30"], "total": ["140.49"]}

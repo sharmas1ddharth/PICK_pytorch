@@ -1,0 +1,1 @@
+{"total": ["70.0"], "source": ["ROORKEE", "(Rk)", "ROORKEE"], "destination": ["AMBALA", "CANT JN", "(UMB)"], "departure": ["I0 Apr 20/9 /5.28", "I0 Apr 20/9"], "arrival": ["I0 Apr 20/9 /7:41"], "train_name": ["HWASR JnShTBDi", "(12053)"], "pnr": ["2522746766"]}

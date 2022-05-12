@@ -1,0 +1,1 @@
+{"total": ["250.98"], "source": ["SaHA -", "RANPUR", "(SRE)", "SAHARANPUR (SRE)"], "destination": ["LUDHIANA", "JN (LDH)"], "departure": ["22 Jan 20/9 /6.20", "22 Jan 20/9"], "arrival": ["22 Jan 20/9 19.30"], "train_name": ["HwASR JnsHTBDI", "(12053)"], "pnr": ["25/9136138"]}

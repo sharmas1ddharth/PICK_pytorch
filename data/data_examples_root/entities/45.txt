@@ -1,0 +1,1 @@
+{"train_name": ["SHRI SHAKTI EXP (2246/)"], "pnr": ["2517878630"], "source": ["AMBALA", "CANT JN", "(UMB)", "AMBALA CANT JN (UMB)"], "destination": ["SHMA TA", "VD KatrA", "(SVDK)"], "departure": ["23 Dec 20/8 20.28", "23 Dec 2018"], "arrival": ["24 Dec 20/8 05./0"], "total": ["1130.49"], "gst_no": ["OZAAACMO289CIZL"], "igst": ["53.65", "5.0%"]}

@@ -1,0 +1,1 @@
+{"contact": ["abhishekpartapsaini@gmail.com & 9761333178"], "train_name": ["HEMKUNT EXP (14610)"], "pnr": ["PNR: 2404616780"], "departure": ["Fri; 29 Nov", "16.20", "29", "Nov 2019"], "arrival": ["Sat; 30 Nov", "05.24"], "source": ["Shmata Vd Katra (SVDK)", "Shmata Vd Katra (SVDK)"], "destination": ["Roorkee (RK)"], "total": ["443.19"]}

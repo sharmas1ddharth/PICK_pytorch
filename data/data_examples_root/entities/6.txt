@@ -1,0 +1,1 @@
+{"total": ["170.98"], "source": ["ROORKEE", "(Rk)", "ROORKEE (Rk)"], "destination": ["AMBALA", "CANT JN"], "departure": ["17 Mar 20/9 15.33", "17 Mar 20/9"], "arrival": ["17 Mar 20/9 17.41"], "train_name": ["HW UHL LINK JSHT", "(12063)"], "pnr": ["2459524835"]}

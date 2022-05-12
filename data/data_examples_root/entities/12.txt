@@ -1,0 +1,1 @@
+{"contact": ["abhishekpartapsalni@gmail.com", "+01-9761333178"], "train_name": ["HEMKUNT EXP (14610)"], "pnr": ["PNR: 2206280966"], "departure": ["Tue; 07 Jan", "18.30", "07 Jan 2020"], "arrival": ["Wed; 08 Jan", "04:15"], "source": ["Jammu Tawi", "UAT)"], "destination": ["Saharanpur (SRE)"], "total": ["801.8"]}

@@ -1,0 +1,1 @@
+{"contact": ["791-976*44*178"], "train_name": ["BL HARIDWAR SPL (091111"], "pnr": ["PNR: 8337871409"], "departure": ["08.50", "Wed, 12 May"], "arrival": ["14*40", "Wed; 12 May"], "source": ["Nlzamuddim (NZM)"], "destination": ["Harldwar Jn (HWI"], "total": ["579.09"], "gst_no": ["OZAAAGMOZ89CIZL"], "cgst": ["13.12/2.5%0"], "ugst": ["13.12/2.590"]}

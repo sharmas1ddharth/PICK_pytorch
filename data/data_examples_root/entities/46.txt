@@ -1,0 +1,1 @@
+{"contact": ["##t#tttt#t#rt#taini@gmailcom & +91-976****178"], "train_name": ["PPTA CDG SPL (03255)"], "pnr": ["PNR: 6752350571"], "departure": ["Thu, 08 Jul", "08 Jul 2021", "14.27"], "arrival": ["Thu, 08 Jul"], "source": ["Roorkee (RK)", "Roarkee (RKI"], "destination": ["Chandigarh (CDG)"], "total": ["222.78"]}

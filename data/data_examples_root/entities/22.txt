@@ -1,0 +1,1 @@
+{"contact": ["791-976*444178"], "train_name": ["SGNR HW SPL", "4047121"], "pnr": ["PNR: 2544992201"], "departure": ["Mon T5 Feb", "415 Feb 2021", "10-35"], "arrival": ["Mon; 15 Feb"], "source": ["4mbals", "CantJn (UMBI", "Ambala CuntJn (UMB) |"], "destination": ["Roorkee (RKI"], "total": ["353.76"]}

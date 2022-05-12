@@ -1,0 +1,1 @@
+{"train_name": ["HEMKUNT EXP (14609)"], "pnr": ["2733995158"], "source": ["ROORKEE (RK)", "ROORKEE (RK)"], "destination": ["SHMATA VD", "KATRA (SVDK)"], "departure": ["26 Oct 2018 1835", "26 Oct 2018"], "arrival": ["27 Oct 2018 06.30"], "total": ["1200.49", "1143.05"], "gst_no": ["O7AAAGMO289CIZL"], "igst": ["56.95 @ 5.0%"]}

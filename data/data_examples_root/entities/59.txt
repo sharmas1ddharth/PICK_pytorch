@@ -1,0 +1,1 @@
+{"total": ["810.98"], "source": ["MUZAF-", "FARNAGAR", "(Moz)", "MUZAFFA RNAGAR (MOZ)"], "destination": ["JAMMU TAWI", "(Jat)"], "departure": ["09", "2019 18.40", "09", "20/9"], "arrival": ["I0", "20/9 05.25"], "train_name": ["SHALIMA R EXP (14645)"], "pnr": ["2261887184"]}

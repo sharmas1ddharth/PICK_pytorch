@@ -1,0 +1,1 @@
+{"total": ["638.68"], "source": ["SaHA-", "RANPUR", "(SRE)", "SAHARANPUR (SRE)"], "destination": ["SHMA TA", "VD KaTRA", "(SVDK)"], "departure": ["04 Jan 2020 /9.45", "04 Jan 2020"], "arrival": ["05 Jan 2020", "06.30"], "train_name": ["HEMKUNT EXP (/4609)"], "pnr": ["26298ii055"]}

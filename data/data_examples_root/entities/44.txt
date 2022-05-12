@@ -1,0 +1,1 @@
+{"total": ["240.98"], "source": ["ROORKEE", "(RK)", "ROORKEE (Rk)"], "destination": ["CHAND-", "IGA RH", "(CDG)"], "departure": ["12 Jul 20/9 15.25", "12 Jul 20/9"], "arrival": ["12 Jul 20/9 /9.03"], "train_name": ["HW UHL LINK JSHT", "(12063)"], "pnr": ["2626746570"]}

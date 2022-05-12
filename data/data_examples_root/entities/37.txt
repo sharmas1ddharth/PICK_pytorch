@@ -1,0 +1,1 @@
+{"train_name": ["CDG RMR SF EXP (12528)"], "pnr": ["2516238780"], "source": ["CHANDIGARH", "(CDG)", "CHANDIGARH (CDG)"], "destination": ["ROORKEE (RK)"], "departure": ["19 Nov 2018 16.05", "19 Nov 2018"], "arrival": ["19 Nov 2018 18.55"], "total": ["200.98"]}
