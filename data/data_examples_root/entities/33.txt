@@ -1,1 +1,0 @@
-{"total": ["550.0"], "source": ["H", "NIZAMUDDIN", "(NZM)", "HNIZAMUDDIN (NZM)"], "destination": ["DURG", "(DURG)"], "departure": ["09 Jan 20/9 04.30", "09 Jan 20/9"], "arrival": ["I0 Jan 20/9 08.40"], "train_name": ["CHHA TISGARH EXP", "(18238)"], "pnr": ["2156461524"]}

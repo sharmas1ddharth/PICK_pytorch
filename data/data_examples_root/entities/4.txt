@@ -1,1 +1,0 @@
-{"contact": ["abhishekparrapsalnl@gmallcom", "+91-9761333178"], "train_name": ["HW UHL LINK JSHT (12063)"], "pnr": ["PNR: 2755467609"], "departure": ["18 Feb", "15.25", "18 Feb 2020"], "arrival": ["Tue; 18 Feb", "19.03"], "source": ["Roorkee (RK)", "Roarkee (RK)"], "destination": ["Chandigarh (CDG)"], "total": ["252.78"]}

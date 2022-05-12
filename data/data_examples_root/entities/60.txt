@@ -1,1 +1,0 @@
-{"total": ["830.98"], "source": ["GhaZia Ba D", "(GZB)", "GHAZIA BAD (GZB)"], "destination": ["KANPUR", "CENTRAL", "(CNB)"], "departure": ["I8 Mar 20/9", "21.56", "I8 Mar 20/9"], "arrival": ["19 Mar 20/9 03.37"], "train_name": ["PRAYAG RAJ EXP", "(12418)"], "pnr": ["2740346148"]}

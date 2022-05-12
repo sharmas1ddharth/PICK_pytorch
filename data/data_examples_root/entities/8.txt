@@ -1,1 +1,0 @@
-{"total": ["370.98"], "source": ["ROORKEE", "(Rk)", "ROORKEE (Rk)"], "destination": ["AMRITSA R", "JN (ASR)"], "departure": ["25 Jan 20/9 15.28", "25 Jan 20/9"], "arrival": ["25 Jan 20/9 22.05"], "train_name": ["Hwasr JnshTBDi", "(12053)"], "pnr": ["2357241213"]}

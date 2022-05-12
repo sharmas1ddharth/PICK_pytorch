@@ -1,1 +1,0 @@
-{"total": ["855.0"], "source": ["MADURAI JN", "(MDU)", "MADURAI JN"], "destination": ["H", "NIZAMUDDIN", "(NZM)"], "departure": ["Mar 20/9 /9.25", "Il Mar 20/9"], "arrival": ["13 Mar 20/9 20.40"], "train_name": ["TEN JAMMU EXP", "(16787)"], "pnr": ["4256108561"]}

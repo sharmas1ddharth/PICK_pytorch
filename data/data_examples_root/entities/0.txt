@@ -1,1 +1,0 @@
-{"total": "1570.49", "source": "AMBALA CaNT JN (UMB)", "destination": "SHMA TA VD Katra (SVDK)", "departure": "22 Feb 20/9 20.28", "arrival": "23 Feb 20/9 05./0", "train_name": "ShRI ShAKTI EXP (22461)", "pnr": "2158499366", "gst_no": "07aAAGM028OCIZL", "igst": "74.55 @ 5.0%"}

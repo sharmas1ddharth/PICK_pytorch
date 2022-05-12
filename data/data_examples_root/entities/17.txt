@@ -1,1 +1,0 @@
-{"train_name": ["SHAHEED EXP SPL", "4046748"], "pnr": ["PNR: 2117184126"], "departure": ["15.55", "Fr, 26 Mur", "Zo Mur 2021", "45-55"], "arrival": ["20.45", "26 Mar"], "source": ["Ludhlana Jn (LDHI", "Luchiana Jn"], "destination": ["Roorkee (RKI"], "total": ["117.29"]}

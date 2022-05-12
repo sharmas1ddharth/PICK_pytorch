@@ -1,1 +1,0 @@
-{"total": ["1070.49"], "source": ["AMRITSA R", "JN (ASR)", "AMRITSAR JN (ASr)"], "destination": ["JAMMU TAWi", "(JaT)"], "departure": ["27 Jan 20/9 0/.20", "27 Jan 20/9"], "arrival": ["27 Jan 20/9 06.35"], "train_name": ["BTI JA T EXP (/9225)"], "pnr": ["25/9438436"], "gst_no": ["OZAAACMO28OCIZL"], "igst": ["50.84", "5.0%"]}

@@ -1,1 +1,0 @@
-{"contact": ["###tttt#ttttttaini@gmailcom & +91-976****178"], "train_name": ["BME FESTIVL SPL (04887)"], "pnr": ["PNR: 2214136357"], "departure": ["Sun 27 Dec", "27 Dec 2020"], "arrival": ["Sun; 27 Dec"], "time": ["Zh :17m"], "source": ["Roorkee (RK)", "Roorkee (RK)"], "destination": ["Ambala Cant Jn (UMB)"], "total": ["< 182.78"]}

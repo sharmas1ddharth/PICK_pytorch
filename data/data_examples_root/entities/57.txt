@@ -1,1 +1,0 @@
-{"contact": ["abhisheknantapsalnl@gmall com", "+91-9761333178"], "train_name": ["HEMKUNT EXP (14610)"], "pnr": ["PNR: 2856821572"], "departure": ["Wed; | 8 Mar", "16.20", "Mar 2020"], "arrival": ["Thu; 19 Mar", "05.24"], "source": ["Shmata Vd Katra (SVDK)", "Shmata Vd Katra (SVDKI"], "destination": ["Roorkee (RK)"], "total": ["? 881.8"]}

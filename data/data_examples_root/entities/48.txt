@@ -1,1 +1,0 @@
-{"contact": ["aini@gmallcom & +91-976*+**178"], "train_name": ["JAN SHATBDI SPL (02053)"], "pnr": ["PNR:2804837862"], "departure": ["14.45", "Tue; 10", "10 Aug", "2021", "14.45"], "arrival": ["16.46", "Tue, 10 Aug"], "source": ["Haridwar Jn (HW)", "Haridwar Jn {HW)"], "destination": ["Yamunanagar Jud (YJUD)"], "total": ["212.78"]}

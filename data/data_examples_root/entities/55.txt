@@ -1,1 +1,0 @@
-{"contact": ["'rtuiltom & .91.076**4*178"], "train_name": ["HEMKUNT SPL", "(046101"], "pnr": ["PNR: 2762299768"], "departure": ["Mon; 22 Feb", "Feb 2021", "18-30"], "arrival": ["Tue, 23 Feb"], "source": ["lmnmu Vawi UAT)", "Jummu Tawi UaT) | 22"], "destination": ["Saharanpur (SRE)"], "total": ["1706.,8"]}

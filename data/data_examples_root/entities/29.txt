@@ -1,1 +1,0 @@
-{"train_name": ["HW UHL LINK JSHT (/2063)"], "pnr": ["2155/94278"], "source": ["SAHA-", "RANPUR", "(SRE)", "SAHARANPUR (SRE)"], "destination": ["CHAND-", "IGARH", "(CDG)"], "departure": ["09 Dec 20/8 16.25", "09 Dec 2018"], "arrival": ["09 Dec 2018 19.05"], "total": ["210.98"]}

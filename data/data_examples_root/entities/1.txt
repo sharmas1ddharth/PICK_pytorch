@@ -1,1 +1,0 @@
-{"contact": ["abhlshekpartapsainl@gmall,comn & +91.9761333178"], "train_name": ["HEMKUNT EXP (14609)"], "pnr": ["PNR: 2855249105"], "departure": ["Thu; 13 Feb", "18.33", "13 Feb 2020"], "arrival": ["Fri 1 4 Feb", "04.30"], "source": ["Roorkee (RK)", "Roorkee (RK)"], "destination": ["Jammu Tawi UAT)"], "total": ["8 407.29"]}

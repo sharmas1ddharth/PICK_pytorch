@@ -1,1 +1,0 @@
-{"total": ["770.98"], "source": ["AMRITSA R", "JN (ASR )", "AMRITSA R Jn (Asr)"], "destination": ["AMBALA", "CANT JN", "(UMB)"], "departure": ["26 Jan 20/9 23.45", "26 Jan 20/9"], "arrival": ["27 Jan 20/9 04.10"], "train_name": ["HIRAKUD EXP (18508)"], "pnr": ["2157323961"]}

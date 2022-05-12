@@ -1,1 +1,0 @@
-{"contact": ["abhlshekpartapsaini@gmallcom", "+91.9761333178"], "train_name": ["CDG LJN EXPRESS (15012)"], "pnr": ["PNR: 2207982157"], "departure": ["Thu; 13 Feb", "17:15", "13 Feb 2020"], "arrival": ["Thu 13 Feb", "20.20"], "source": ["Chandigarh (CDG)", "Chandigarh (CDG)"], "destination": ["Roorkee (RK)"], "total": ["407.29"]}

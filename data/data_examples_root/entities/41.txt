@@ -1,1 +1,0 @@
-{"total": ["340.0"], "source": ["LUDHIANA JN", "(LDH)", "LuDhIANA JN (LDH)"], "destination": ["SaHA -", "RANPUR", "(SRE)"], "departure": ["26 Oct 20/9", "23.59", "26 Oct 20/9"], "arrival": ["27 Oct 20/9 03.30"], "train_name": ["COLDN TEMPLE ML", "(12904)"], "pnr": ["2847587308"]}
