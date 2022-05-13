@@ -1,0 +1,1 @@
+{"total": ["270.98"], "source": ["HARIDWaR", "JN (HW)", "HARIDWAR JN (Hw)"], "destination": ["R UDRAPUR", "City (R UPC)"], "date": ["Arrival"], "departure": ["20 Feb 20/9 /7.35", "20 Feb 20/9"], "arrivl": ["20 Feb 20/9 21.58"], "train_name": ["Naini DOoN Jan $", "(12091)"], "pnr": ["2739189676"]}
